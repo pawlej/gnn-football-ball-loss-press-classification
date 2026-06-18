@@ -112,4 +112,4 @@ See [`requirements.txt`](./requirements.txt) for the full list of dependencies.
 
 ## Authors
 
-Developed as part of **Machine Learning Project at AGH** — by Paweł Lejczak and Jakub Gałka
+Developed as part of **Machine Learning Project at AGH University of Kraków** — by Paweł Lejczak and Jakub Gałka
